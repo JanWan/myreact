@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JanWan/myreact.git/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/JanWan/myreact.git/static/js/main.cf360c5c.chunk.js",
+    "main.js.map": "/JanWan/myreact.git/static/js/main.cf360c5c.chunk.js.map",
+    "runtime-main.js": "/JanWan/myreact.git/static/js/runtime-main.64d95ddf.js",
+    "runtime-main.js.map": "/JanWan/myreact.git/static/js/runtime-main.64d95ddf.js.map",
+    "static/js/2.140029fb.chunk.js": "/JanWan/myreact.git/static/js/2.140029fb.chunk.js",
+    "static/js/2.140029fb.chunk.js.map": "/JanWan/myreact.git/static/js/2.140029fb.chunk.js.map",
+    "static/js/3.d5564387.chunk.js": "/JanWan/myreact.git/static/js/3.d5564387.chunk.js",
+    "static/js/3.d5564387.chunk.js.map": "/JanWan/myreact.git/static/js/3.d5564387.chunk.js.map",
+    "index.html": "/JanWan/myreact.git/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/JanWan/myreact.git/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.140029fb.chunk.js.LICENSE.txt": "/JanWan/myreact.git/static/js/2.140029fb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/JanWan/myreact.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64d95ddf.js",
+    "static/js/2.140029fb.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.cf360c5c.chunk.js"
+  ]
+}
