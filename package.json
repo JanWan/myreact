@@ -12,7 +12,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://github.com/JanWan/myreact.git",
+  "homepage": "https://janwan.github.io/myreact",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
